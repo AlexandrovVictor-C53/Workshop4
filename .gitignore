@@ -1,0 +1,21 @@
+# Visual Studio
+.vs/
+Project1/.vs/
+*.user
+*.suo
+*.cache
+Debug/
+Release/
+x64/
+x86/
+
+# Временные файлы
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.log
+
+# Результаты (можно исключить, если не хотите хранить)
+results.txt
+*.png
